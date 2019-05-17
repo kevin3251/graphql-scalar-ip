@@ -1,0 +1,19 @@
+{
+  "name": "graphql-custom-ip-scalar",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "dependencies": {
+    "graphql": "^14.3.0",
+    "graphql-tools": "^4.0.4"
+  },
+  "devDependencies": {
+    "rollup": "^1.12.1"
+  }
+}
